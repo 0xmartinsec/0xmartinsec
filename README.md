@@ -10,4 +10,6 @@
 &nbsp;
 <a href="https://app.intigriti.com/profile/0xmartin"><img src="https://img.shields.io/badge/Intigriti-1a1a1a?style=for-the-badge" alt="Intigriti"></a>
 
+<a href="https://x.com/0xmartinsec"><img src="https://img.shields.io/badge/X-1a1a1a?style=for-the-badge" alt="X"></a>
+
 </div>
